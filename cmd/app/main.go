@@ -3,9 +3,9 @@ package main
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/geeeeorge/Go-book-review/config"
-	"github.com/geeeeorge/Go-book-review/infra/database"
-	"github.com/geeeeorge/Go-book-review/infra/server"
+	"github.com/geeeeorge/AWS-app-runner/config"
+	"github.com/geeeeorge/AWS-app-runner/infra/database"
+	"github.com/geeeeorge/AWS-app-runner/infra/server"
 )
 
 func main() {
